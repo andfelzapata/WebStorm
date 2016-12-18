@@ -1,0 +1,16 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.163" value="19" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="PLUGIN_FILTER" value="react" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="selected.color.option.type" value="XML_TAG_NAME" />
+    <property name="ColorChooser.RecentColors" value="25-53-73-255,,,48-170-24-255,,,162-173-179-255,,,227-196-19-255,,,93-177-167-255,,,194-20-32-255,,,194-73-37-255,,,255-166-44-255,,,255-194-25-255,,,131-176-195-255,,,194-19-9-255,,,3-126-236-255,,,223-132-234-255,,,158-95-169-255,,,194-33-35-255,,,35-78-108-255,,,31-62-88-255,,,255-33-35-255,,,240-145-255-255,,,160-16-27-255" />
+  </component>
+</application>
